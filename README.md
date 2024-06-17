@@ -25,10 +25,6 @@ To run the project, ensure you have Python installed. Follow the steps below to 
    ```bash
    cd Vision-Project-Image-Segmentation
    ```
-3. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 To run the image segmentation tasks, you can use the provided Python scripts and Jupyter notebooks. Here are examples of how to execute the main scripts:
